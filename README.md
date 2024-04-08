@@ -18,3 +18,6 @@ https://github.com/lint-staged/lint-staged
 
 ## about commit patterns
 https://www.conventionalcommits.org/en/v1.0.0/
+
+
+https://webpack.js.org/concepts/
